@@ -1,9 +1,4 @@
 #Github
 
-Arquivo da aula de teste 
-Este é um repositório
-
-gostou do curso?
-claro, pq não?
-
-Teste de envio.
+Github dedicado a aprendizagem do uso do Git/Github já utilizando para guardar e divulgar códigos 
+dos exercícios do livro "Head First: Learn to Code".
