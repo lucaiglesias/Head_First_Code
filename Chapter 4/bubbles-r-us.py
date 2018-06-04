@@ -14,5 +14,5 @@ length = len(scores)
 # and is also used to mark the position. At the and it increment 1 to
 # i and return to the beginning of the loop.
 while i < length:
-    print('Bubble solution #', i, 'score:', scores[i])
+    print('Bubble solution #'+ str(i), 'score:', scores[i])
     i = i + 1
